@@ -1,5 +1,5 @@
 # HACKER_RANK
-The document discusses 5 coding problems and their solutions in Python. 
+The document discusses 6 coding problems and their solutions in Python. 
 Problem 1 prints hello world . 
 Problem 2 if else problem
 Problem 3 arithmetic
